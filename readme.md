@@ -4,7 +4,7 @@ Simple html page build to show tables and nested unordered lists
 
 ### Screenshot
 
-![](img/screenshot.pngscreenshot.png)
+![](img/screenshot.png)
 
 ### Links
 
